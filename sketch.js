@@ -9,7 +9,7 @@ function setup() {
     fill('white')
     ellipse(175, 300, 50, 30)
     ellipse(225, 300, 50, 30)
-    fill('yellow')
+    fill('pink')
     ellipse(165, 250, 30, 50)
     ellipse(235, 250, 30, 50)
     rect(160, 210, 80, 80)
